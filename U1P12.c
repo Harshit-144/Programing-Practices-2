@@ -1,4 +1,4 @@
-12. Enter your name and print it vertically.
+//12. Enter your name and print it vertically.
 #include <stdio.h>
 
 int main() {
@@ -17,3 +17,4 @@ int main() {
 
     return 0;
 }
+
