@@ -19,6 +19,6 @@ This repository covers several key programming challenges, including:
 
 ## 👨‍💻 Author
 
-**Harshit Vadgama** | **GitHub**: [Harshit](https://github.com/harshit-137867)
+**Harshit Vadgama** | **GitHub**: [Profile](https://github.com/harshit-137867)
 
 ---
