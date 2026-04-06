@@ -9,7 +9,7 @@ int main() {
 
     for (int i = 0; i < 4; i++) {
         for (int j = i + 1; j < 5; j++) {
-            if (strcmp(s[i], s[j]) < 0) { 
+            if (strcmp(s[i], s[j]) < 0) { // Descending
                 strcpy(temp, s[i]);
                 strcpy(s[i], s[j]);
                 strcpy(s[j], temp);
